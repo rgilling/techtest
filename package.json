@@ -1,0 +1,18 @@
+{
+  "name": "techtest",
+  "version": "1.0.0",
+  "description": "Technical Test ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "Richard Gilling",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.2.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
